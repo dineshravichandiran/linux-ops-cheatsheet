@@ -4,6 +4,11 @@
 
 > Built from 3+ years of 24×7 production operations, incident response, and troubleshooting across enterprise SaaS platforms.
 
+This file is the command reference — the *what*. For the actual diagnostic
+sequence I'd walk through on real problems (symptom → diagnose → fix →
+prevent recurrence, basic to advanced), see
+**[TROUBLESHOOTING.md](TROUBLESHOOTING.md)**.
+
 ---
 
 ## 📋 Table of Contents
