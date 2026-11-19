@@ -703,3 +703,7 @@ Built by [Dinesh Ravichandiran](https://linkedin.com/in/dineshravichandiran) —
 ---
 
 *"Preparation beats panic, every time." — 3+ years of on-call rotations* 🚀
+
+## License
+
+See [LICENSE](LICENSE).
